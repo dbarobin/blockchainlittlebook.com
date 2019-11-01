@@ -212,6 +212,12 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 在 Mixin 里提供 OTC 服务的是 ExinOne，机器人 ID：**7000101276**。
 
+ExinOne 除了 Mixin Messenger 的机器人，还提供网页版、Android、iOS。
+
+* 网页版：[https://exinone.com](https://exinone.com)，注册填写邀请码 **NX92O3**
+* Android：[https://exin.one](https://exin.one)，Android 机型访问，自动识别，点击「Android 下载」
+* iOS：[https://exin.one](https://exin.one)，需要安装 Testflight
+
 你也可以到 [https://big.one](https://big.one) 或者 [https://b1.run](https://b1.run)，这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT 购买比特币，它也有 [OTC 服务](https://otc.b1.run/trade)。另外，Big.One 的 Mixin 大群 ID 是：*7000101910*。
 
 再次需要提醒风险：
