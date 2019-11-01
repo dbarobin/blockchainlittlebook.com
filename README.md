@@ -438,9 +438,15 @@ git pull upstream master
 git push -u origin master
 ```
 
+## 修改记录
+
+修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
+
 ## 关于作者
 
 李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+
+Robin，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
 ### 出版书籍
 
