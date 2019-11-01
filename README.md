@@ -446,7 +446,7 @@ git push -u origin master
 
 修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
 
-Robin，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
+Robin，博主，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
 ## 关于作者
 
