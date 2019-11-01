@@ -383,7 +383,7 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
 
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
+本书内容保存在 [GitHub](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
 
 本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
 
@@ -398,7 +398,7 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 **你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
 
-在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
+在你注册好自己的 GitHub 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
 
 ![](images/fork1.png)
 
