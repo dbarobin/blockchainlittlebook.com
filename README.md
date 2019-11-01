@@ -368,8 +368,6 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > 1. 不要只做期货；
 > 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
-
-
 -----
 
 ## 关于本书
@@ -438,15 +436,15 @@ git pull upstream master
 git push -u origin master
 ```
 
-## 修改记录
+## 关于修改
 
 修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
+
+Robin，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
 ## 关于作者
 
 李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
-
-Robin，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
 ### 出版书籍
 
