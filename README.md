@@ -213,7 +213,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 ![](images/miniwallet.png)
 
-在 Mixin 里提供 OTC 服务的是 ExinOne，机器人 ID：**7000101276**。
+在 Mixin 里提供 OTC 服务的是 ExinOne，机器人 ID：**7000101276**。ExinOne 是一站式数字资产金融服务平台，提供 OTC、定投、闪兑、理财等服务。
 
 ExinOne 除了 Mixin Messenger 的机器人，还提供网页版、Android、iOS。
 
