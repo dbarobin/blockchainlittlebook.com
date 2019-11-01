@@ -207,7 +207,7 @@ Mixin 下载方式：
 >   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 > * Desktop
 >   * 国内用户，在 Exin 团队做的 [镜像下载](https://download.exin.one/mixin/desktop)
->   * 国外用户，[Mixin Messenger 官网下载](https://mixin.one/messenger)
+>   * 国外用户，在 [Mixin Messenger 官网下载](https://mixin.one/messenger)
 
 iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
 
