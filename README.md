@@ -197,6 +197,8 @@
 
 目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
 
+> 修改记录：增加 Exin 镜像下载，以及 Desktop 下载方式。By [Robin](https://dbarobin.com)
+
 Mixin 下载方式：
 
 > * iOS
@@ -214,6 +216,8 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 ![](images/miniwallet.png)
 
 在 Mixin 里提供 OTC 服务的是 ExinOne，机器人 ID：**7000101276**。ExinOne 是一站式数字资产金融服务平台，提供 OTC、定投、闪兑、理财等服务。
+
+> 修改记录：增加 ExinOne 描述、客户端下载方式。By [Robin](https://dbarobin.com)
 
 ExinOne 除了 Mixin Messenger 的机器人，还提供网页版、Android、iOS。
 
@@ -352,6 +356,8 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 短期投机难度非常大，绝大多数人的宿命是：“凭运气赚到的钱后来凭实力亏光了……” 所以，你只能选择长期。而后，在眼花缭乱的各种标的之间，究竟选哪个呢？在我看来，小白没什么其它的选择。**如果要选，只有 BTC**。如果想要系统化的投资策略，那么先去认真阅读《[定投改变命运](https://onregularinvesting.com)》若干遍，除此之外也别无其他选择。
 
+> 修改记录：去除 EOS，只保留 BTC。By [Robin](https://dbarobin.com)
+
 ### 4. 不要相信各种专家
 
 这个领域太新，又涉及技术，又涉及金钱，所以，这个领域里真正的专家少之又少，与之相对的，骗子数不胜数 —— 并且，你很少会见到专家说别人是专家，却总是见到骗子说别人是骗子。
@@ -410,6 +416,8 @@ Fork 完成之后，点开 Settings
 
 ![](images/fork3.png)
 
+> 修改记录：增加 Namecheap。By [Robin](https://dbarobin.com)
+
 而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上、[阿里云](https://www.net.cn)、[Namecheap](https://www.namecheap.com) 上购买域名）：
 
 ![](images/fork4.png)
@@ -446,6 +454,8 @@ git push -u origin master
 ```
 
 ## 关于修改
+
+> 修改记录：增加「关于修改」部分。By [Robin](https://dbarobin.com)
 
 修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
 
