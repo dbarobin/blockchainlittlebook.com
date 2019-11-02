@@ -457,7 +457,7 @@ git push -u origin master
 
 > 修改记录：增加「关于修改」部分。By [Robin](https://dbarobin.com)
 
-修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
+GitHub 修改记录点击 [此处](https://github.com/dbarobin/blockchainlittlebook.com/commits/master) 查阅。
 
 Robin，博主，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
